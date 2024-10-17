@@ -1,4 +1,4 @@
-# python-avanzado# Sistema de Gestión de Reservas para un Hotel
+# Sistema de Gestión de Reservas para un Hotel
 
 En esta última clase del curso, aplicaremos todos los conceptos aprendidos para desarrollar un sistema completo utilizando Python avanzado. El proyecto consiste en la implementación de un **sistema de gestión de reservas para un hotel**, que gestionará las siguientes funcionalidades:
 
